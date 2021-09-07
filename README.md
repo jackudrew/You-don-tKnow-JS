@@ -5,3 +5,5 @@ Value and Types
 
 Variables
 
+Operators
+
