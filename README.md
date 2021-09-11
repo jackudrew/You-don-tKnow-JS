@@ -1,9 +1,3 @@
 # You-don-tKnow-JS
-Short codes from You Don't Know JS (Kyle Simpson)
-
-Value and Types
-
-Variables
-
-Operators
+A short project shall be made to demonstrate what have I learned from the book.
 
